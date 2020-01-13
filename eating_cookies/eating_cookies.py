@@ -20,7 +20,7 @@ def eating_cookies(n):
       cache[n] = result
       return result    
 
-print(eating_cookies(10))  
+print(eating_cookies(2500))  
 
 # if __name__ == "__main__":
 #   if len(sys.argv) > 1:
